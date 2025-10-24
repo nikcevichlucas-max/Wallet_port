@@ -1,0 +1,7 @@
+reflex==0.8.16
+yfinance
+plotly
+pandas
+numpy
+groq
+gunicorn
