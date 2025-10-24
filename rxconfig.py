@@ -11,5 +11,5 @@ config = rx.Config(
         rx.plugins.TailwindV4Plugin(),
     ],
     api_port=int(os.getenv("PORT", "8000")),
-    deploy_url="https://wallet-port-oficial.onrender.com"
+    deploy_url="https://wallet-port-oficial.onrender.com",
 )
