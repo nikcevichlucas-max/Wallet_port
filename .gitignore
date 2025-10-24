@@ -1,6 +1,6 @@
 *.db
 assets/external/
-
+.env
 .states
 __pycache__/
 *.py[cod]
